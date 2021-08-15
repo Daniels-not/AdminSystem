@@ -1,4 +1,4 @@
-![Admin System](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
+![Admin System](https://github.com/Daniels-not/AdminSystem/blob/main/appIMG/Screenshot%20from%202021-08-14%2019-41-20.png)
 
 ### AdminSystem 🐻
 #### Desktop Development 😃
